@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project involves building an **onboarding assistant for Saran AI Labs**, an AI research and development company. The assistant will help new employees understand company policies, answer queries about internal regulations, and provide **personalized responses** based on employee details.
+This project involves building an **onboarding assistant for Gaurav AI Labs**, an AI research and development company. The assistant will help new employees understand company policies, answer queries about internal regulations, and provide **personalized responses** based on employee details.
 
 The assistant is developed using **Streamlit for UI** and **LangChain with Retrieval Augmented Generation (RAG)** for integrating a vector store containing **company regulations** extracted from a provided PDF.
 
